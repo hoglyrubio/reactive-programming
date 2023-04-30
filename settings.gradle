@@ -1,0 +1,7 @@
+rootProject.name = 'reactive-programming'
+include 'reactive-streams'
+include 'rx-java'
+include 'akka-streams'
+include 'project-reactor'
+include 'smallrye-mutiny'
+
